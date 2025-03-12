@@ -1,0 +1,42 @@
+Online-Shop für koreanische Kosmetik “Goblin Cosmetics”
+1.Einleitung
+Der Online-Shop „Goblin Cosmetics“ ist auf den Verkauf koreanischer Kosmetik spezialisiert und bietet hochwertige Hautpflegeprodukte an. Der Fokus des Unternehmens liegt auf innovativen und hypoallergenen Produkten, die das Allergierisiko minimieren. 
+2.Geschäftsmodell
+2.1Produkte
+•	Koreanische Cremes, Seren, Masken
+•	Produkte mit hohem Lichtschutzfaktor
+•	Naturkosmetikformeln ohne aggressive Inhaltsstoffe
+•	Spezialprodukte für empfindliche Haut
+Die Zielgruppe von „Goblin Cosmetics“ besteht hauptsächlich aus Frauen im Alter von 18 bis 55 Jahren, die an hochwertiger koreanischer Kosmetik interessiert sind. Diese Frauen legen großen Wert auf Hautpflege, innovative Produkte und hypoallergene Formeln, die speziell für empfindliche Haut entwickelt wurden.
+2.2 Garantie- und Rückgaberecht
+•	Qualitätsgarantie – im Falle einer nachgewiesenen allergischen Reaktion enthält der Kunde eine volle Rückerstattung
+•	2 % der Kunden leiden an Allergien, was 2 Personen pro 100 Verkäufen pro Tag entspricht. ( Es gibt keine genaue Daten und  dies basiert auf einer Annahme.)
+•	Versicherung gegen Schadensfälle zur Minimierung finanzieller Verluste
+2.3 Marketing Strategien
+Um unsere Zielgruppe effektiv zu erreichen, setzen wir auf gezielte Werbung in sozialen Medien wie Instagram, Facebook und TikTok. Durch ansprechende visuelle Inhalte, Influencer-Kooperationen und interaktive Kampagnen schaffen wir eine starke Markenpräsenz und binden unsere Kunden emotional an die Marke.
+Unsere Produkte werden ausschließlich über unseren Online-Shop vertrieben, um eine breite Reichweite und bequeme Verfügbarkeit für unsere Kunden zu gewährleisten. Durch eine benutzerfreundliche Website und einen effizienten Lieferdienst bieten wir ein nahtloses Einkaufserlebnis.
+3.Problem und Lösung
+3.1 Allergierisiko bei Kunden 
+Koreanische Kosmetika enthaltet natürliche Extrakte, dennoch kann es bei manchen Kunden zu Reaktionen kommen. Dies führt zu:
+	Beschwerden und Rückerstattung
+	Potenzielle Verluste für Unternehmen
+	Bedarf an Gewinnanalyze und Optimierung
+3.2 Monte-Carlo-Simulation als Lösung
+Wir verwenden die Monte-Carlo-Simulation zur Analyse:
+1. Wie viele Personen geben pro Monat Produkte zurück?
+2. Welche Auswirkungen hat dies auf den Gewinn?
+3. Optimierung der Finanzstrategie
+
+ 4. Programmbeschreibung
+ 4.1. Funktionalitäten
+	Simuliert 1000 Szenarien des monatlichen Umsatzes (500 – 2000 Einheiten)
+	Berechnet die Anzahl der allergischen Reaktionen (3%) und den Prozentsatz der Beschwerden (50%)
+	Analysiert Renditeverluste und Endgewinn
+ 4.2. Simulationsergebnisse
+•	Durchschnittseinkommen: 37.569 BGN.
+•	Verluste aus Ansprüchen: 657 BGN.
+•	Endgewinn nach Abzug der Kosten: 18.127 BGN/Monat
+•	Beschwerdeanteil: 1,75 % des Gesamtumsatzes
+
+5. Fazit
+Die Monte-Carlo-Simulation beweist, dass der Online-Shop trotz einer geringen Beschwerdequote finanziell tragfähig sein kann. Durch zusätzliche Strategien wie das Angebot von Testern und die Information über Inhaltsstoffe kann das Risiko weiter reduziert werden.
