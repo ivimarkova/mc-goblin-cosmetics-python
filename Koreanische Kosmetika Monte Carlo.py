@@ -1,4 +1,5 @@
 #Koreanische Kosmetika Online Shop "Goblin Cosmetics" - Simulator mit Monte-Carlo
+#©2025 IVAYLA MARKOVA ALL RIGHTS RESERVED
 import numpy as np
 
 def monte_carlo_korean_cosmetics(num_simulations=1000):
